@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Michael Steven Lozano Carretero
+# ¡Hola! 👋 Soy Michael
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -7,8 +7,6 @@
 ## 💻 Desarrollador de Software 
 
 ¡Bienvenido a mi perfil de código! Soy un apasionado desarrollador colombiano 🇨🇴 que disfruta creando soluciones innovadoras y aprendiendo nuevas tecnologías.
-
-
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -39,21 +37,16 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-lozano-04b75b317)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.proximamente.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lozanomaicol430@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hookbloq.github.io)
   
 </div>
 
 ### 🎯 Objetivos Actuales
 
-- 🔍 En búsqueda activa de oportunidades laborales
+- 🚀 Construyendo HookBloq — automatización con IA para negocios
 - 📈 Mejorando constantemente mis habilidades
 - 🌱 Aprendiendo nuevas tecnologías
 - 🤝 Abierto a colaboraciones
-
-### 📫 ¿Hablamos?
-
-¡Me encantaría conectar contigo! Si tienes una oportunidad laboral interesante o simplemente quieres charlar sobre desarrollo de software, ¡no dudes en contactarme!
 
 ### 📊 Mis Estadísticas
 
@@ -65,14 +58,6 @@
   
 </div>
 
-
-
-
-
-
 ---
 
-
 > "Si supiéramos qué es lo que estamos haciendo, no se llamaría investigación, ¿verdad?." - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
-
-⭐️ From [Michael Steven Lozano](https://github.com/MaicolLozano)
